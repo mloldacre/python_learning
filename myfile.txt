@@ -1,0 +1,2 @@
+Hello this is a text file that I created using I/O operations
+The first line statement only works in Jupyter notebooks
